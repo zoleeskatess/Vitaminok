@@ -1,6 +1,9 @@
+body{
+    background-color: blanchedalmond;
+}
 #fejlec{
-    width: 1000px;
-    margin: auto;
-    background-color: #1D597B;
+    font-weight: bold;
     text-align: center;
+    color:gray;
+    font-size: 25px;
 }
